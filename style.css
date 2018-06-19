@@ -1,0 +1,14 @@
+#waiting {
+  display: none;
+  position: relative;
+  top: 30%;
+  left: 130%;
+}
+
+#espera {
+  display: none;
+  position: relative;
+  top: 40%;
+  left: 40%;
+}
+
